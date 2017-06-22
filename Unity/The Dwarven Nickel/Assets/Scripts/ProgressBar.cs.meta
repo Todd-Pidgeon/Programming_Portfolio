@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa7e1f0eee895e947a2d8256fe3d6fb2
+timeCreated: 1484383607
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - emptyTex: {fileID: 10305, guid: 0000000000000000f000000000000000, type: 0}
+  - fullTex: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

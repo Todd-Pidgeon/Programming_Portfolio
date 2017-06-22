@@ -1,0 +1,2 @@
+s:\My Documents\Visual Studio 2015\Projects\CSD221_Lab6_Todd_Pidgeon\Lab6\bin\Debug\Lab6.exe.config
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\CSD221_Lab6_Todd_Pidgeon\Lab6\bin\Debug\Lab6.exe.config

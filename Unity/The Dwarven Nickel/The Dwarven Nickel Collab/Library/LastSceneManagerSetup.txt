@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/The Dwarven Nickel Collab/Assets/minigame.unity
+  isLoaded: 1
+  isActive: 1
