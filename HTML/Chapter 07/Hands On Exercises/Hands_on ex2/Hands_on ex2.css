@@ -1,0 +1,13 @@
+
+/*
+File Name:       Hands_on ex2.css
+Programmer Name: Todd Pidgeon
+Date:            Oct. 28/2015
+Purpose:         Hands on exercise 2 CSS
+*/
+
+#sample { float: left;
+          background-color: #cc9966;
+          font-size: large
+          font-family: Verdana, sans-serif
+          padding: 20px }

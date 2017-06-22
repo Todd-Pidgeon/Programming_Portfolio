@@ -1,0 +1,25 @@
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\bin\Debug\Tutorial-14.exe.config
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\bin\Debug\Movie.mdf
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\bin\Debug\Movie_log.ldf
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\bin\Debug\Tutorial-14.exe
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\bin\Debug\Tutorial-14.pdb
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\bin\Debug\Tutorial-14.xml
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\obj\Debug\Tutorial_14.Form1.resources
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\obj\Debug\Tutorial_14.Resources.resources
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\obj\Debug\Tutorial-14.vbproj.GenerateResource.Cache
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\obj\Debug\Tutorial-14.exe
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\obj\Debug\Tutorial-14.xml
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-14\obj\Debug\Tutorial-14.pdb
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\bin\Debug\Tutorial-14.exe.config
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\obj\Debug\Tutorial-14.exe
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\obj\Debug\Tutorial-14.xml
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\obj\Debug\Tutorial-14.pdb
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\bin\Debug\Movie.mdf
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\bin\Debug\Movie_log.ldf
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\bin\Debug\Tutorial-14.exe
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\bin\Debug\Tutorial-14.pdb
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\bin\Debug\Tutorial-14.xml
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\obj\Debug\Tutorial-14.vbprojResolveAssemblyReference.cache
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\obj\Debug\Tutorial_14.Form1.resources
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\obj\Debug\Tutorial_14.Resources.resources
+D:\Semester 4\Advanced Visual Basic\Todd_Pidgeon_Lab2B_Ch10-Tutorials-8-14\Tutorial-14\obj\Debug\Tutorial-14.vbproj.GenerateResource.Cache

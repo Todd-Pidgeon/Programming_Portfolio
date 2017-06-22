@@ -1,0 +1,13 @@
+
+/*
+File Name:       Hands_on ex3.css
+Programmer Name: Todd Pidgeon
+Date:            Oct. 28/2015
+Purpose:         Hands on exercise 3 CSS
+*/
+
+#sample { position: absolute;
+          padding-top: 20px;
+          padding-right: 40px;
+          background-color: #cccccc;
+          border: solid }

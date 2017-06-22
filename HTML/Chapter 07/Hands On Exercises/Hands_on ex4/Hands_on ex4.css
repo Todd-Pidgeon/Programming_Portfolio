@@ -1,0 +1,11 @@
+
+/*
+File Name:       Hands_on ex4.css
+Programmer Name: Todd Pidgeon
+Date:            Oct. 28/2015
+Purpose:         Hands on exercise 4 CSS
+*/
+
+.sample { position: relative;
+          padding-left: 15px;
+          background-color: #99cc66 }

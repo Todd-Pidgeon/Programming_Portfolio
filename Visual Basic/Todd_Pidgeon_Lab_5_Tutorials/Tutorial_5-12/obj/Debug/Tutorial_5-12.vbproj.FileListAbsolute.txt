@@ -1,0 +1,14 @@
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\bin\Debug\Tutorial_5-12.exe.config
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\obj\Debug\Tutorial_5_12.Form1.resources
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\obj\Debug\Tutorial_5_12.Resources.resources
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\obj\Debug\Tutorial_5-12.vbproj.GenerateResource.Cache
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\bin\Debug\Tutorial_5-12.exe
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\bin\Debug\Tutorial_5-12.pdb
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\bin\Debug\Tutorial_5-12.xml
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\obj\Debug\Tutorial_5-12.exe
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\obj\Debug\Tutorial_5-12.xml
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\obj\Debug\Tutorial_5-12.pdb
+J:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\bin\Debug\Tutorial_5-12.exe.config
+J:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\obj\Debug\Tutorial_5-12.exe
+J:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\obj\Debug\Tutorial_5-12.xml
+J:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-12\obj\Debug\Tutorial_5-12.pdb

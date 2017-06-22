@@ -1,0 +1,11 @@
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\bin\Debug\Tutorial_8-8.exe.config
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\bin\Debug\Tutorial_8-8.exe
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\bin\Debug\Tutorial_8-8.pdb
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\bin\Debug\Tutorial_8-8.xml
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\obj\Debug\Tutorial_8-8.vbprojResolveAssemblyReference.cache
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\obj\Debug\Tutorial_8_8.Form1.resources
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\obj\Debug\Tutorial_8_8.Resources.resources
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\obj\Debug\Tutorial_8-8.vbproj.GenerateResource.Cache
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\obj\Debug\Tutorial_8-8.exe
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\obj\Debug\Tutorial_8-8.xml
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_8_Tutorials\Tutorial_8-8\obj\Debug\Tutorial_8-8.pdb

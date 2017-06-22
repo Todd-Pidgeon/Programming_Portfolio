@@ -1,0 +1,15 @@
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\bin\Debug\Tutorial_6-1.exe.config
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\bin\Debug\Tutorial_6-1.exe
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\bin\Debug\Tutorial_6-1.pdb
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\bin\Debug\Tutorial_6-1.xml
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6-1.vbprojResolveAssemblyReference.cache
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6_1.Form1.resources
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6_1.Resources.resources
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6-1.vbproj.GenerateResource.Cache
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6-1.exe
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6-1.xml
+\\ahome14\15006664$\My Documents\Visual Studio 2015\Projects\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6-1.pdb
+J:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\bin\Debug\Tutorial_6-1.exe.config
+J:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6-1.exe
+J:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6-1.xml
+J:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_6_Tutorials\Tutorial_6-1\obj\Debug\Tutorial_6-1.pdb

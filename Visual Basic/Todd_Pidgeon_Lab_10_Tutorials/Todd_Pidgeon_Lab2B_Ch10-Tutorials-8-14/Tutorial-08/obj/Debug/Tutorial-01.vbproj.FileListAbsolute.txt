@@ -1,0 +1,13 @@
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\bin\Debug\Company.mdf
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\bin\Debug\Company_log.ldf
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\obj\Debug\Tutorial-01.vbprojResolveAssemblyReference.cache
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\obj\Debug\Tutorial-01.vbproj.GenerateResource.Cache
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

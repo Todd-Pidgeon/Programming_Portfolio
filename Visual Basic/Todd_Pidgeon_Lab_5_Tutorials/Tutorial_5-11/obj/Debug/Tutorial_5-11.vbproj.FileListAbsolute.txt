@@ -1,0 +1,10 @@
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\bin\Debug\Tutorial_5-11.exe.config
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\bin\Debug\Tutorial_5-11.exe
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\bin\Debug\Tutorial_5-11.pdb
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\bin\Debug\Tutorial_5-11.xml
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\obj\Debug\Tutorial_5_11.Form1.resources
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\obj\Debug\Tutorial_5_11.Resources.resources
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\obj\Debug\Tutorial_5-11.vbproj.GenerateResource.Cache
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\obj\Debug\Tutorial_5-11.exe
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\obj\Debug\Tutorial_5-11.xml
+J:\Semester 3\CSD206 - Visual Bsic\Todd_Pidgeon_Lab_5_Tutorials\Tutorial_5-11\obj\Debug\Tutorial_5-11.pdb

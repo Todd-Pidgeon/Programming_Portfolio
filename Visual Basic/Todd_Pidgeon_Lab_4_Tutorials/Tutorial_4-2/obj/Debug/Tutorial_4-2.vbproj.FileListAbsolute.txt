@@ -1,0 +1,10 @@
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\bin\Debug\Tutorial_4-2.exe.config
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\bin\Debug\Tutorial_4-2.exe
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\bin\Debug\Tutorial_4-2.pdb
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\bin\Debug\Tutorial_4-2.xml
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\obj\Debug\Tutorial_4_2.Form1.resources
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\obj\Debug\Tutorial_4_2.Resources.resources
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\obj\Debug\Tutorial_4-2.vbproj.GenerateResource.Cache
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\obj\Debug\Tutorial_4-2.exe
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\obj\Debug\Tutorial_4-2.xml
+c:\users\todd\documents\visual studio 2013\Projects\Todd_Pidgeon_Lab_4_Tutorials\Tutorial_4-2\obj\Debug\Tutorial_4-2.pdb

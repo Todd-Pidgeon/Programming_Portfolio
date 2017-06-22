@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <!--
+      Lab 1
+      Individual Case
+
+      Author: Todd Pidgeon
+      Date:   Jam 19 2017
+
+      Filename: index.htm
+   -->
+  <title>Todd's Magic The Gathering Decks</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  body {
+      font: 400 15px/1.8 Lato, sans-serif;
+      color: #777;
+  }
+  h3, h4 {
+      margin: 10px 0 30px 0;
+      letter-spacing: 10px;      
+      font-size: 20px;
+      color: #111;
+  }
+  .container {
+      padding: 80px 120px;
+  }
+  .person {
+      border: 10px solid transparent;
+      margin-bottom: 25px;
+      width: 80%;
+      height: 80%;
+      opacity: 0.7;
+  }
+  .person:hover {
+      border-color: #f1f1f1;
+  }
+  .carousel-inner img {
+      -webkit-filter: grayscale(90%);
+      filter: grayscale(90%); /* make all photos black and white */ 
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+  }
+  .carousel-caption h3 {
+      color: #fff !important;
+  }
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+  }
+  .bg-1 {
+      background: #2d2d30;
+      color: #bdbdbd;
+  }
+  .bg-1 h3 {color: #fff;}
+  .bg-1 p {font-style: italic;}
+  .list-group-item:first-child {
+      border-top-right-radius: 0;
+      border-top-left-radius: 0;
+  }
+  .list-group-item:last-child {
+      border-bottom-right-radius: 0;
+      border-bottom-left-radius: 0;
+  }
+  .thumbnail {
+      padding: 0 0 15px 0;
+      border: none;
+      border-radius: 0;
+  }
+  .thumbnail p {
+      margin-top: 15px;
+      color: #555;
+  }
+  .btn {
+      padding: 10px 20px;
+      background-color: #333;
+      color: #f1f1f1;
+      border-radius: 0;
+      transition: .2s;
+  }
+  .btn:hover, .btn:focus {
+      border: 1px solid #333;
+      background-color: #fff;
+      color: #000;
+  }
+  .modal-header, h4, .close {
+      background-color: #333;
+      color: #fff !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-header, .modal-body {
+      padding: 40px 50px;
+  }
+  .nav-tabs li a {
+      color: #777;
+  }
+  #googleMap {
+      width: 100%;
+      height: 400px;
+      -webkit-filter: grayscale(100%);
+      filter: grayscale(100%);
+  }  
+  .navbar {
+      font-family: Montserrat, sans-serif;
+      margin-bottom: 0;
+      background-color: #2d2d30;
+      border: 0;
+      font-size: 11px !important;
+      letter-spacing: 4px;
+      opacity: 0.9;
+  }
+  .navbar li a, .navbar .navbar-brand { 
+      color: #d5d5d5 !important;
+  }
+  .navbar-nav li a:hover {
+      color: #fff !important;
+  }
+  .navbar-nav li.active a {
+      color: #fff !important;
+      background-color: #29292c !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+  }
+  .open .dropdown-toggle {
+      color: #fff;
+      background-color: #555 !important;
+  }
+  .dropdown-menu li a {
+      color: #000 !important;
+  }
+  .dropdown-menu li a:hover {
+      background-color: red !important;
+  }
+  footer {
+      background-color: #2d2d30;
+      color: #f5f5f5;
+      padding: 32px;
+  }
+  footer a {
+      color: #f5f5f5;
+  }
+  footer a:hover {
+      color: #777;
+      text-decoration: none;
+  }  
+  .form-control {
+      border-radius: 0;
+  }
+  textarea {
+      resize: none;
+  }
+  </style>
+  
+  <script src="modernize.custom.05819.js"></script>
+  
+</head>
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
+
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#myPage">
+          <img src="MtG-Logo.jpg" alt="MTG Logo" width="120" height="34">
+      </a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#myPage">HOME</a></li>
+        <li><a href="#player">PLAYER</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#modern">MODERN
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#uginfect">U/G INFECT</a></li>
+            <li><a href="#bginfect">B/G INFECT</a></li>
+            <li><a href="#toothnail">TOOTH & NAIL</a></li>
+            <li><a href="#">DEATH'S SHADOW ZOO</a></li> 
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">STANDARD
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">ALLIES</a></li>
+            <li><a href="#">ZOMBIES</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">COMMANDER
+          <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">ANGELS</a></li>
+          </ul>
+        </li>
+        <li><a href="#contact">CONTACT</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <img src="Attila_orion.jpg" alt="Attila Orion" width="700" height="200">
+        <div class="carousel-caption">
+        </div>      
+      </div>
+
+      <div class="item">
+        <img src="todd_bike.jpg" alt="Todd Bike" width="700" height="200">
+        <div class="carousel-caption">
+        </div>      
+      </div>
+    
+      <div class="item">
+        <img src="the_hand.jpg" alt="The Hand" width="700" height="200">
+        <div class="carousel-caption">
+        </div>      
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<!-- Container (The Player Section) -->
+<div id="player" class="container text-center">
+  <h3>THE PLAYER</h3>
+  <p><em>Lord of Salt</em></p>
+  <p>Upon moving to Sault Saint Marie about a year and a half ago, Todd was introduce to Magic The 
+        Gathering by an old friend. With almost no experience with card games Todd spent his early days 
+        picking up the basics of the game. He quick moved on to building better and more competitive decks.
+        Influence by those he played with his preferred format is modern and his first real deck was based 
+        on the Infect archetype. Todd try's to play the game as often as he can and enjoys improving his skills and 
+        tries his best to avoid miss-plays while attempting to not get overly salty.</p>
+  <br>
+  <div class="row">
+    <div class="col-sm-4">
+      <p class="text-center"><strong>Todd Pidgeon</strong></p><br>
+      <a href="#demo" data-toggle="collapse">
+        <img src="todd_pidgeon.jpg" class="img-circle person" alt="Todd Pidgeon" width="255" height="255">
+      </a>
+      <div id="demo" class="collapse">
+        <p>Spell slinging wizard.</p>
+        <p>Loves to crush dreams as quickly as possible.</p>
+        <p>Has played for just under 2 years.</p>
+      </div>
+    </div>
+  </div>
+  
+  <article>
+      <hr>
+      <h2>Salt Calculator</h2>
+      <p>How Salty you will be playing Magic The Gathering?</p>
+      <form>
+          <fieldset>
+            <label for="aValue">
+              Enter Your Age:    
+            </label>
+            <input type="number" id="Age" />
+          </fieldset>
+		  <fieldset>
+            <label for="hValue">
+              Enter Your Height(cm):
+            </label>
+            <input type="number" id="Height" />
+          </fieldset>
+          <fieldset>
+            <button type="button" id="button">Get Salt</button>
+          </fieldset>
+          <fieldset>
+            <br>
+            <p id="cValue"></p>
+            <p id="sValue"></p>
+          </fieldset>
+     </form>
+   </article>
+   <script>
+		function convert()
+		{
+			var age = document.getElementById("Age").value;
+			var height = document.getElementById("Height").value;
+			
+                        saltNum = Math.round((age * height) / 64.5)
+                        
+			salt = "Your Salt will be =  " + Math.round((age * height) / 64.5) + "%"
+			
+			document.getElementById("cValue").innerHTML = salt;
+		
+                
+                    if (saltNum > 100)
+                        (
+                            play = "Maybe MTG is not for you."   
+                        )
+                    else
+                        (
+                            play = "You may survive a few FNMs."
+                        );
+
+                    document.getElementById("sValue").innerHTML = play
+                }
+                
+		document.getElementById("button").addEventListener("click", convert, false); 
+   </script>
+</div>
+
+<!-- Container (MODERN Deck Section) -->
+<div id="uginfect" class="bg-1">
+  <div class="container">
+    <h3 class="text-center">BLUE/GREEN INFECT</h3>
+    <p class="text-center">
+        //Maindeck<br />
+        //Creatures<br />
+        4 Blighted Agent<br />
+        4 Glistener Elf<br />
+        4 Noble Hierarch<br />
+        <br />
+        //Spells<br />
+        2 Wild Defiance<br />
+        2 Apostle's Blessing<br />
+        2 Blossoming Defense<br />
+        1 Dismember<br />
+        1 Spell Pierce<br />
+        1 Twisted Image<br />
+        2 Groundswell<br />
+        4 Become Immense<br />
+        4 Might of Old Krosa<br />
+        4 Mutagenic Growth<br />
+        4 Vines of Vastwood<br />
+        2 Distortion Strike<br />
+        <br />
+        //Land<br />
+        2 Breeding Pool<br />
+        1 Forest<br />
+        2 Pendelhaven<br />
+        4 Inkmoth Nexus<br />
+        4 Windswept Heath<br />
+        4 Wooded Foothills<br />
+        1 Island<br />
+        1 Verdant Catacombs<br />
+        <br />
+        //Sideboard<br />
+        2 Relic of Progenitus<br />
+        1 Dryad Arbor<br />
+        2 Spellskite<br />
+        1 Viridian Corrupter<br />
+        2 Nature's Claim<br />
+        1 Spell Pierce<br />
+        2 Dismember<br />
+        2 Twisted Image<br />
+        2 Piracy Charm<br />
+    </p>
+  </div>
+</div>
+
+<div id="bginfect" class="bg-2">
+  <div class="container">
+    <h3 class="text-center">BLACK/GREEN INFECT</h3>
+    <p class="text-center">
+        // 60 Maindeck<br />
+        // Creatures<br />
+        4 Glistener Elf<br />
+        4 Noble Hierarch<br />
+        4 Plague Stinger<br />
+        4 Phyrexian Crusader<br />
+        <br />
+        // Spells<br />
+        3 Rancor<br />
+        2 Apostle's Blessing<br />
+        1 Dismember<br />
+        4 Might of Old Krosa<br />
+        4 Vines of Vastwood<br />
+        2 Become Immense<br />
+        2 Blossoming Defense<br />
+        3 Abrupt Decay<br />
+        3 Inquisition of Kozilek<br />
+        <br />
+        // Land<br />
+        3 Wooded Foothills<br />
+        1 Forest<br />
+        4 Inkmoth Nexus<br />
+        2 Pendelhaven<br />
+        3 Overgrown Tomb<br />
+        2 Blooming Marsh<br />
+        1 Twilight Mire<br />
+        1 Verdant Catacombs<br />
+        2 Polluted Delta<br />
+        1 Swamp<br />
+        <br />
+        // 15 Sideboard<br />
+        1 Relic of Progenitus<br />
+        1 Dryad Arbor<br />
+        2 Spellskite<br />
+        1 Viridian Corrupter<br />
+        1 Vampiric Link<br />
+        1 Illness in the Ranks<br />
+        1 Dismember<br />
+        2 Nature's Claim<br />
+        2 Ravenous Trap<br />
+        1 Carrion Call<br />
+        2 Pulse of Murasa<br />
+    </p>
+  </div>
+    
+    <div id="toothnail" class="bg-1">
+  <div class="container">
+    <h3 class="text-center">TOOTH & NAIL</h3>
+    <p class="text-center">
+        // 60 Maindeck<br />
+        // Creatures<br />
+        2 Eternal Witness<br />
+        4 Arbor Elf<br />
+        4 Voyaging Satyr<br />
+        1 Wurmcoil Engine<br />
+        1 Xenagos, God of Revels<br />
+        1 Emrakul, the Aeons Torn<br />
+        1 Primeval Titan<br />
+        1 Blightsteel Colossus<br />
+        1 Ulamog, the Ceaseless Hunger<br />
+        <br />
+        // Spells<br />
+        4 Overgrowth<br />
+        4 Utopia Sprawl<br />
+        1 Blood Moon<br />
+        1 Nissa, Worldwaker<br />
+        3 Garruk Wildspeaker<br />
+        4 Tooth and Nail<br />
+        2 Harmonize<br />
+        3 Primal Command<br />
+        <br />
+        // Land<br />
+        2 Windswept Heath<br />
+        3 Wooded Foothills<br />
+        4 Stomping Ground<br />
+        1 Kessig Wolf Run<br />
+        1 Nykthos, Shrine to Nyx<br />
+        10 Forest<br />
+        1 Mountain<br />
+        <br />
+        // 15 Sideboard<br />
+        2 Relic of Progenitus<br />
+        1 Spellskite<br />
+        1 Hornet Queen<br />
+        1 Acidic Slime<br />
+        1 Scavenging Ooze<br />
+        2 Choke<br />
+        1 Ancient Grudge<br />
+        1 Nature's Claim<br />
+        2 Lightning Bolt<br />
+        1 Boseiju, Who Shelters All<br />
+        1 Creeping Corrosion<br />
+        1 Crumble to Dust<br />
+    </p>
+  </div>
+</div>
+
+<!-- Container (Contact Section) -->
+<div id="contact" class="container">
+  <h3 class="text-center">Contact</h3>
+  <p class="text-center"><em>Questions?</em></p>
+
+  <div class="row">
+    <div class="col-md-4">
+      <p>Drop a note.</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span>Sault Saint Marie, CAN</p>
+      <p><span class="glyphicon glyphicon-phone"></span>Phone: 1 705 555 5555</p>
+      <p><span class="glyphicon glyphicon-envelope"></span>Email: todd.pidgeon@gmail.com</p>
+    </div>
+    <div class="col-md-8">
+      <div class="row">
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+        </div>
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+        </div>
+      </div>
+      <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea>
+      <br>
+      <div class="row">
+        <div class="col-md-12 form-group">
+          <button class="btn pull-right" type="submit">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="googleMap"></div>
+
+<!-- Google Maps -->
+<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script>
+var myCenter = new google.maps.LatLng(46.522029, -84.345985);
+
+function initialize() {
+var mapProp = {
+center:myCenter,
+zoom:12,
+scrollwheel:false,
+draggable:false,
+mapTypeId:google.maps.MapTypeId.ROADMAP
+};
+
+var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+var marker = new google.maps.Marker({
+position:myCenter,
+});
+
+marker.setMap(map);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+<!-- Footer -->
+<footer class="text-center">
+  <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a><br><br>
+  <p>Site Made By <a href="http://www.w3schools.com" data-toggle="tooltip" title="Visit w3schools">www.w3schools.com</a></p> 
+</footer>
+
+<script>
+$(document).ready(function(){
+  // Initialize Tooltip
+  $('[data-toggle="tooltip"]').tooltip(); 
+  
+  // Add smooth scrolling to all links in navbar + footer link
+  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 900, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\bin\Debug\Tutorial_3-10.exe.config
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\obj\Debug\Tutorial_3_10.Form1.resources
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\obj\Debug\Tutorial_3_10.Resources.resources
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\obj\Debug\Tutorial_3-10.vbproj.GenerateResource.Cache
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\bin\Debug\Tutorial_3-10.exe
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\bin\Debug\Tutorial_3-10.pdb
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\bin\Debug\Tutorial_3-10.xml
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\obj\Debug\Tutorial_3-10.exe
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\obj\Debug\Tutorial_3-10.xml
+C:\Users\Todd\Documents\Visual Studio 2013\Projects\Todd_Pidgeon_CSD206_Lab_3\Tutorial_3-10\obj\Debug\Tutorial_3-10.pdb

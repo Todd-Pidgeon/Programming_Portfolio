@@ -1,0 +1,12 @@
+
+/*
+File Name:       Hands_on ex1.css
+Programmer Name: Todd Pidgeon
+Date:            Oct. 28/2015
+Purpose:         Hands on exercise 1 CSS
+*/
+
+#sample { position: fixed;
+          background-color: #cccccc;
+          font-weight: bold;
+          padding: 10px }

@@ -1,0 +1,15 @@
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\bin\Debug\Tutorial-09.exe.config
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\obj\Debug\Tutorial-09.exe
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\obj\Debug\Tutorial-09.xml
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\obj\Debug\Tutorial-09.pdb
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\bin\Debug\Karate.mdf
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\bin\Debug\Karate_log.ldf
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\bin\Debug\Tutorial-09.exe
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\bin\Debug\Tutorial-09.pdb
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\bin\Debug\Tutorial-09.xml
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\obj\Debug\Tutorial-11.vbprojResolveAssemblyReference.cache
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\obj\Debug\Tutorial_09.AddMemberForm.resources
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\obj\Debug\Tutorial_09.AllMembersForm.resources
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\obj\Debug\Tutorial_09.MainForm.resources
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\obj\Debug\Tutorial_09.Resources.resources
+S:\Visual Studio II\Chapter-10-Tutorials-1-7\Tutorial-11\obj\Debug\Tutorial-11.vbproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+
+
+File Name:       pacific_trails_description.txt
+Programmer Name: Todd Pidgeon
+Date:            Dec. 09/2015
+Purpose:         Pacific Trails Case study ch12
+
+Pacific Trail Webpage Description
+
+The Pacific Trails Resort website allows you to explore what the Pacific Trails Resort has to offer for a vacation stay.
+ It informs you on the activities and amenities of the resort as well as provides pictures and videos of the resort.
+ You can view pricing for your stay and yurt rental and can also book a reservation.

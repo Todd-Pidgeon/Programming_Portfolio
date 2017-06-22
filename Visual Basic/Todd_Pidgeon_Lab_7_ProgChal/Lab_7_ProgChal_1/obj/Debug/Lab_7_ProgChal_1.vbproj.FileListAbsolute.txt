@@ -1,0 +1,12 @@
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\bin\Debug\Lab_7_ProgChal_1.exe.config
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\bin\Debug\Lab_7_ProgChal_1.exe
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\bin\Debug\Lab_7_ProgChal_1.pdb
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\bin\Debug\Lab_7_ProgChal_1.xml
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\obj\Debug\Lab_7_ProgChal_1.vbprojResolveAssemblyReference.cache
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\obj\Debug\Lab_7_ProgChal_1.ConferenceForm.resources
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\obj\Debug\Lab_7_ProgChal_1.MainForm.resources
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\obj\Debug\Lab_7_ProgChal_1.Resources.resources
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\obj\Debug\Lab_7_ProgChal_1.vbproj.GenerateResource.Cache
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\obj\Debug\Lab_7_ProgChal_1.exe
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\obj\Debug\Lab_7_ProgChal_1.xml
+D:\Semester 3\CSD206 - Visual Basic\Todd_Pidgeon_Lab_7_ProgChal\Lab_7_ProgChal_1\obj\Debug\Lab_7_ProgChal_1.pdb

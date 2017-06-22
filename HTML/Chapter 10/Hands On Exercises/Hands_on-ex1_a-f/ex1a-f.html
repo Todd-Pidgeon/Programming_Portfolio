@@ -1,0 +1,78 @@
+
+<!--
+File Name:       ex1a-f.html
+Programmer Name: Todd Pidgeon
+Date:            Nov. 21/2015
+Purpose:         Hands on exercise #1 a-f
+-->
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <title>Hands On Exercise 1</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+
+    <h1>Hands On Exercise 1</h1>
+
+    <form method="get">
+        <label for="username">User Name:</label>
+        <input type="text" name="username" id="username" maxlength="30"><br><br>
+
+        Favorite Day of the Week:<br>
+        <input type="radio" name="dayweek" id="favMon" value="Monday">Monday<br>
+        <input type="radio" name="dayweek" id="favTues" value="Tuesday">Tuesday<br>
+        <input type="radio" name="dayweek" id="favWed" value="Wednesday">Wednesday<br>
+        <input type="radio" name="dayweek" id="favThurs" value="Thursday">Thursday<br>
+        <input type="radio" name="dayweek" id="favFri" value="Friday">Friday<br>
+        <input type="radio" name="dayweek" id="favSat" value="Saturday">Saturday<br>
+        <input type="radio" name="dayweek" id="favSun" value="Sunday">Sunday<br>
+
+        <br>Favorite Social Media Website:<br>
+        <select>
+            <option value="volvo">Facebook</option>
+            <option value="twitter">Twitter</option>
+            <option value="tumblr">Tumblr</option>
+            <option value="linkedin">LinkedIn</option>
+            <option value="instagram">Instagram</option>
+            <option value="pintrest">Pintrest</option>
+        </select>
+
+        <br><br>
+
+        <fieldset>
+            <legend>Billing Address</legend>
+            <label>AddressLine1:</label>
+            <input type="text" name="AddressLine1" id="AddressLine1"><br>
+            <label>AddressLine2:</label>
+            <input type="text" name="AddressLine2" id="AddressLine2"><br>
+            <label>City:</label>
+            <input type="text" name="City" id="City"><br>
+            <label>State:</label>
+            <input type="text" name="State" id="State" maxlength="2" size="5"><br>
+            <label>Zip Code:</label>
+            <input type="text" name="Zip Code" id="Zip Code" maxlength="2" size="5"><br>
+        </fieldset>
+
+        <input type="hidden" name="userid" id="usedid">
+
+        <br><br>
+
+        <label for="pword">Password:</label>
+        <input type="password" name="pword" id="pword">
+
+        <br><br><input type="submit" value="Submit">
+
+        <input type="reset">
+    </form>
+
+    </body>
+
+</html>
