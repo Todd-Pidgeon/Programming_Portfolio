@@ -32,11 +32,14 @@
   .container {
       padding: 80px 120px;
   }
+  .navbar-brand {
+	  padding: 10px 0 0 15px;
+  }
   .person {
       border: 10px solid transparent;
       margin-bottom: 25px;
-      width: 80%;
-      height: 80%;
+      width: 25%;
+      height: 25%;
       opacity: 0.7;
   }
   .person:hover {
@@ -45,7 +48,7 @@
   .carousel-inner img {
       -webkit-filter: grayscale(90%);
       filter: grayscale(90%); /* make all photos black and white */ 
-      width: 100%; /* Set width to 100% */
+      width: 50%; /* Set width to 100% */
       margin: auto;
   }
   .carousel-caption h3 {
@@ -266,7 +269,7 @@
         tries his best to avoid miss-plays while attempting to not get overly salty.</p>
   <br>
   <div class="row">
-    <div class="col-sm-4">
+    <div>
       <p class="text-center"><strong>Todd Pidgeon</strong></p><br>
       <a href="#demo" data-toggle="collapse">
         <img src="todd_pidgeon.jpg" class="img-circle person" alt="Todd Pidgeon" width="255" height="255">
@@ -312,24 +315,24 @@
 			var age = document.getElementById("Age").value;
 			var height = document.getElementById("Height").value;
 			
-                        saltNum = Math.round((age * height) / 64.5)
+            saltNum = Math.round((age * height) / 64.5)
                         
 			salt = "Your Salt will be =  " + Math.round((age * height) / 64.5) + "%"
 			
 			document.getElementById("cValue").innerHTML = salt;
-		
-                
-                    if (saltNum > 100)
-                        (
-                            play = "Maybe MTG is not for you."   
-                        )
-                    else
-                        (
-                            play = "You may survive a few FNMs."
-                        );
+		   
+            if (saltNum > 100)
+                (
+                    play = "Maybe MTG is not for you."   
+                )
+            else
+                (
+                    play = "You may survive a few FNMs."
+                );
 
-                    document.getElementById("sValue").innerHTML = play
-                }
+            document.getElementById("sValue").innerHTML = play
+        
+		}
                 
 		document.getElementById("button").addEventListener("click", convert, false); 
    </script>
@@ -550,7 +553,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
   <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a><br><br>
-  <p>Site Made By <a href="http://www.w3schools.com" data-toggle="tooltip" title="Visit w3schools">www.w3schools.com</a></p> 
+  <p>Site Made By <a data-toggle="tooltip" title="todd.pidgeon@gmail.com">Todd Pidgeon</a></p> 
 </footer>
 
 <script>
